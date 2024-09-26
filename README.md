@@ -8,3 +8,4 @@ türkis
 pink
 orange
 lila
+schwarz
