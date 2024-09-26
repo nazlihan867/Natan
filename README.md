@@ -7,3 +7,4 @@ gelb
 türkis
 pink
 orange
+lila
