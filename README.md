@@ -18,3 +18,4 @@ rosa
 gold
 bunt
 regenbogen
+hautfarbe
