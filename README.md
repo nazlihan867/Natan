@@ -19,3 +19,4 @@ gold
 bunt
 regenbogen
 hautfarbe
+pink
