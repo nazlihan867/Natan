@@ -16,3 +16,4 @@ grau
 besch
 rosa
 gold
+bunt
