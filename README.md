@@ -14,3 +14,4 @@ violett
 weiß
 grau
 besch
+rosa
