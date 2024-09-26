@@ -15,3 +15,4 @@ weiß
 grau
 besch
 rosa
+gold
