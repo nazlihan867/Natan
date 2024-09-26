@@ -4,3 +4,4 @@ blau
 grün
 rot
 gelb
+türkis
