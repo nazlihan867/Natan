@@ -12,3 +12,4 @@ schwarz
 braun
 violett
 weiß
+grau
