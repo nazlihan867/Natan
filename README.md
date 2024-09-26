@@ -10,3 +10,4 @@ orange
 lila
 schwarz
 braun
+violett
