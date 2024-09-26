@@ -11,3 +11,4 @@ lila
 schwarz
 braun
 violett
+weiß
