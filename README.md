@@ -5,3 +5,5 @@ grün
 rot
 gelb
 türkis
+pink
+orange
